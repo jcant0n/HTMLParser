@@ -3,3 +3,6 @@
 ################################################################################
 
 /HTMLParser/bin/Debug
+/HTMLParser/obj/Debug
+/packages/HtmlAgilityPack.1.4.9.5
+/packages
