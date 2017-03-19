@@ -79,6 +79,8 @@ namespace HTMLParser
 
             dbConnection.Close();
 
+            // Generate files to study on Excel
+
             // Create Folder
             string directoryName = "Sessions";
             if (!Directory.Exists(directoryName))
